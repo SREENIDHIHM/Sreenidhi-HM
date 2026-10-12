@@ -41,7 +41,7 @@ cloud-based data platforms on Azure.
 
 ### 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/<your-handle>) · srinidhihm98@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sreenidhi-hm/) · srinidhihm98@gmail.com
 
 <!--
 Tip: replace every <your-username> / <your-handle> placeholder above with your real GitHub username
