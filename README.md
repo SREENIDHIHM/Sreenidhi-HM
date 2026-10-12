@@ -24,13 +24,13 @@ cloud-based data platforms on Azure.
 
 ### 📌 Featured Projects
 
-- **[E-Commerce End-to-End Data Engineering Pipeline](https://github.com/<your-username>/ecommerce-data-pipeline)**
+- **[E-Commerce End-to-End Data Engineering Pipeline](https://github.com/SREENIDHIHM)**
   Azure Data Factory → ADLS Gen2 → PySpark/Databricks → star-schema warehouse, with SCD Type 1/2 and incremental loading.
 
-- **[Customer Data Warehouse & ETL Pipeline](https://github.com/<your-username>/customer-data-warehouse)**
+- **[Customer Data Warehouse & ETL Pipeline](https://github.com/SREENIDHIHM)**
   Python-based ETL with PostgreSQL staging and Apache Airflow orchestration.
 
-- **[AI Semantic Search Data Pipeline](https://github.com/<your-username>/ai-semantic-search-pipeline)**
+- **[AI Semantic Search Data Pipeline](https://github.com/SREENIDHIHM)**
   Embeddings + vector search pipeline integrated with an Ollama-based LLM for retrieval.
 
 ### 💼 Experience
