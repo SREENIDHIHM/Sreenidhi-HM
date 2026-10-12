@@ -1,4 +1,3 @@
-# Sreenidhi-HM
 <h1 align="center">Hi, I'm Sreenidhi H M 👋</h1>
 <h3 align="center">Data Engineer | Python · SQL · PySpark · Azure</h3>
 
